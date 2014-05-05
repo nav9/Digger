@@ -1,3 +1,20 @@
+'<Digger. The classic Digger game re-created in ASCII>
+'Copyright (C) <2014> <Navin Ipe>
+'Contact: navinipe at gmail dot com
+
+'This program is free software: you can redistribute it and/or modify
+'it under the terms of the GNU General Public License as published by
+'the Free Software Foundation, either version 3 of the License, or
+'(at your option) any later version.
+
+'This program is distributed in the hope that it will be useful,
+'but WITHOUT ANY WARRANTY; without even the implied warranty of
+'MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+'GNU General Public License for more details.
+
+'You should have received a copy of the GNU General Public License
+'along with this program. If not, see <http://www.gnu.org/licenses/>.
+
 10 SCREEN 12: GOSUB 2030: OPEN "O", #1, "LEV.DAT": WRITE #1, 1: WRITE #1, 2: WRITE #1, 3: WRITE #1, 4: CLOSE #1
 20 CLS : KEY OFF: SCREEN 0, 0, 0: OPEN "I", #1, "LEV.DAT": INPUT #1, LEVEL: CLOSE #1
 30 LOCATE 15, 25: PRINT "LEVEL : "; LEVEL: X$ = INPUT$(1)
