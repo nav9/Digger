@@ -1,4 +1,4 @@
-'<Digger. The classic Digger game re-created in ASCII and Graphics>
+'<Digger. The classic Digger game re-created in ASCII>
 'Copyright (C) <2014> <Navin Ipe>
 'Contact: navinipe at gmail dot com
 
