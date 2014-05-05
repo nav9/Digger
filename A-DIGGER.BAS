@@ -1,3 +1,20 @@
+'<Digger. The classic Digger game re-created in ASCII and Graphics>
+'Copyright (C) <2014> <Navin Ipe>
+'Contact: navinipe at gmail dot com
+
+'This program is free software: you can redistribute it and/or modify
+'it under the terms of the GNU General Public License as published by
+'the Free Software Foundation, either version 3 of the License, or
+'(at your option) any later version.
+
+'This program is distributed in the hope that it will be useful,
+'but WITHOUT ANY WARRANTY; without even the implied warranty of
+'MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+'GNU General Public License for more details.
+
+'You should have received a copy of the GNU General Public License
+'along with this program. If not, see <http://www.gnu.org/licenses/>.
+
 10 '----------ADVANCED DIGGER
 20 GOSUB 3870: GOSUB 4150: GOSUB 1750: GOSUB 2810
 30 CLS : KEY OFF: SCREEN 2: SCREEN 0, 0, 0: LEVEL = 1: LIFE = 3: SHOT = 2
