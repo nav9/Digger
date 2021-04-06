@@ -16,6 +16,6 @@ Digger, was one of the primary motivations for me to get into game programming. 
 
 I recently found out that a person who had similarly created his own version of Digger, decided to review my programs. 
 The video is here: 
-[![IMAGE ALT TEXT HERE](images/andrewReview.jpg)](https://www.youtube.com/watch?v=gSF_JsdBvxo)
+[![IMAGE ALT TEXT HERE](images/andrewReview.png)](https://www.youtube.com/watch?v=gSF_JsdBvxo)
 
 And this was his Digger: https://www.youtube.com/watch?v=ch9ezxnidbY
