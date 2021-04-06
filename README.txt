@@ -1,3 +1,6 @@
+![Alt text](images/digger1.jpg?raw=true "Digger")
+![Alt text](images/diggerAdvancedAnimated.gif)
+  
 Digger
 ======
 
@@ -12,5 +15,7 @@ Digger-forever.bas: I programmed this in October 2003, on a room-mate's PC I bor
 Digger, was one of the primary motivations for me to get into game programming. My cousins had let me play digger on their computer in around 1994 or 1995 (during those times computers were only available with privileged people) and we got to play Digger during our computer classes also at about that time (the teacher used to allow us to play games because they hadn't yet begun teaching us Logo). I wanted to play the game at home too. By the time I got a computer at home, they didn't have the game with them anymore (those used to be on the 5.25 inch floppy drives). So I decided to create Digger myself!
 
 I recently found out that a person who had similarly created his own version of Digger, decided to review my programs. 
-The video is here: https://www.youtube.com/watch?v=gSF_JsdBvxo
+The video is here: 
+[![IMAGE ALT TEXT HERE](images/andrewReview.jpg)](https://www.youtube.com/watch?v=gSF_JsdBvxo)
+
 And this was his Digger: https://www.youtube.com/watch?v=ch9ezxnidbY
